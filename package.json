@@ -7,14 +7,14 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Minh Tri",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongodb": "^6.4.0"
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0"
   },
   "devDependencies": {
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.1.0"
   }
 }
